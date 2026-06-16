@@ -12,6 +12,10 @@ It **only reads what your authenticated account can already see.** No exploits, 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
+<p align="center">
+  <img src="telegram_osint.png" alt="Telegram OSINT" width="100%">
+</p>
+
 ---
 
 ## ⚠️ Responsible use
